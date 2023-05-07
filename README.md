@@ -3,7 +3,7 @@
 
 
 ```
-https://raw.githubusercontent.com/Vahid-Spacer/Block-ip/main/block.ssh
+bash <(curl -s https://raw.githubusercontent.com/Vahid-Spacer/Block-ip/main/block.ssh)
 ```
 
 ## Contact
